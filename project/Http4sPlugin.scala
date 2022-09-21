@@ -1,8 +1,7 @@
 package org.http4s.sbt
 
 import com.github.tkawachi.doctest.DoctestPlugin.autoImport._
-import com.typesafe.sbt.SbtGit.git
-import com.typesafe.sbt.git.JGit
+import com.github.sbt.git.JGit
 import de.heikoseeberger.sbtheader.HeaderPlugin.autoImport._
 import org.portablescala.sbtplatformdeps.PlatformDepsPlugin.autoImport._
 import sbt.Keys._

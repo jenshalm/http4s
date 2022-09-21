@@ -98,5 +98,5 @@ With just a few commands, we have a fully functional app for creating
 a simple JSON service.
 
 [giter8 template]: https://github.com/http4s/http4s.g8
-[versions]: /versions/
+[versions]: ../versions.md
 [sbt-revolver]: https://github.com/spray/sbt-revolver
